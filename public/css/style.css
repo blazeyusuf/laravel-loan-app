@@ -1,0 +1,212 @@
+.section{
+	margin: 30px;
+}
+
+
+
+ input[type=text], input[type=email], input[type=number], input[type=password]  {
+  width: 100%;
+  padding: 15px;
+  margin: -5px 0 22px 0;
+  color: green;
+  background: #f1f1f1;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+/* Add a background color when the inputs get focus */
+input[type=text]:focus, input[type=email]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+
+
+.round{
+
+	background-color: green;
+
+	padding: 50px 0px;
+	margin: 15px 20px 0px 10px;
+	border-radius: 5px;
+}
+
+
+
+
+.image-area {
+  position: relative;
+  width: 15%;
+
+  background: #333;
+}
+.image-area img{
+  max-width: 100%;
+  height: auto;
+}
+.remove-image {
+display: none;
+position: absolute;
+top: -10px;
+right: -10px;
+border-radius: 10em;
+padding: 2px 6px 3px;
+text-decoration: none;
+font: 700 21px/20px sans-serif;
+background: #555;
+border: 3px solid #fff;
+color: #FFF;
+box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  -webkit-transition: background 0.5s;
+  transition: background 0.5s;
+}
+.remove-image:hover {
+ background: #E54E4E;
+  padding: 3px 7px 5px;
+  top: -11px;
+right: -11px;
+}
+.remove-image:active {
+ background: #E54E4E;
+  top: -10px;
+right: -11px;
+}
+
+
+
+
+.front{
+  max-width: 1920px;
+  max-height: 520px;
+  margin: -25px 0px 80px 0px;
+}
+
+
+.somiti{
+  
+  font-size: 300px;
+  
+}
+
+
+@media screen and (min-width: 601px) {
+  h2.alo {
+    font-size: 80px;
+    margin: -550px 0px 0px 450px;
+}
+  }
+}
+
+@media screen and (max-width: 500px) {
+  h2.alo {
+    font-size: 20px;
+    margin: -250px 0px 0px 50px;
+   
+}
+  }
+
+
+  /* Container holding the image and the text */
+.container {
+  position: relative;
+  max-width: 2500px;
+  max-height: 720px;
+
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  margin: -150px 200px 200px -400px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+/* Robosoft page design */
+
+.web{
+  margin: -23px 0px 0px 0px;
+  
+}
+
+.first-col{
+  background-color: #fc8f50;
+}
+
+.second-col{
+  background-color: #d9dde2;
+}
+
+
+#webside{
+  padding: 25px 35px;
+  margin:  25px 0px 0px 0px;
+  border-radius: 15px;
+  
+}
+
+.web1{
+  margin: 65px 0px 0px 50px;
+  padding: 18px 45px 250px 00px;
+  
+
+  color: #ffffff;
+}
+
+.web1 p{
+  text-align: justify;
+}
+
+
+.web2{
+  padding: 70px 25px;
+   margin: 100px 0px 0px 0px ;
+   color: #15c441;
+  
+   
+  }
+
+  .web2 p{
+    
+    text-align: justify;
+  }
+
+
+#dv{
+  padding: 70px 25px;  
+ }
+
+
+ .foot{
+  padding: 50px 0px 20px 0px;
+
+}
+
+.footer{
+  margin: 05px 0px 0px 0px;
+}
+
+.footi a{
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
