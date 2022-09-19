@@ -7,7 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Loan Demo Application Setup
+## Loan Url
+Visit https://https://blazeyusuf-laravel.online/login
+
+## Loan Application Setup
 
 1. CD into the application root directory with your command prompt/terminal/git bash.
 
