@@ -8,7 +8,7 @@
 </p>
 
 ## Loan Url
-Visit https://https://blazeyusuf-laravel.online/login
+Visit https://https://blazeyusuf-laravel.online
 
 ## Loan Application Setup
 
